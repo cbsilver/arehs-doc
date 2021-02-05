@@ -50,3 +50,6 @@
 | geothermischer Wärmefluss | über Temperaturrandbedingungen | über Temperaturrandbedingungen | über Temperaturrandbedingungen |
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc2MzI2NjQ1NV19
+-->
