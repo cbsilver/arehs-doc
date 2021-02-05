@@ -1,6 +1,6 @@
 # AREHS: Prozesse in den Wirtsgesteinen
 
-## Hydrogeologischen Prozesse während Vereisungsereignissen
+## Hydrogeologische Prozesse während Vereisungsereignissen
 
 ### Allgemeines
 * Vereisungszyklen reproduzieren und Einschätzungen über die Eispanzerüberdeckung
@@ -51,5 +51,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzI2NjQ1NV19
+eyJoaXN0b3J5IjpbMjQzMjUxMTQxLC03NjMyNjY0NTVdfQ==
 -->
